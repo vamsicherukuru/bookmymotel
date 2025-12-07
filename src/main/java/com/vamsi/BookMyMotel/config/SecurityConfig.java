@@ -41,7 +41,7 @@ public class SecurityConfig {
 
                 .authenticationProvider(authProvider);
 
-                ;
+
 
 
         return httpSecurity.build();
